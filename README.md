@@ -1,2 +1,3 @@
-# SM-Parking-solutions
+# SM-Parking-solutions Data Privacy Policy
 
+SM-Parking-solutions (here-after refered to as SMPS) will store data only for the purposes to upload it to the Amazon Web Services's Database that is associated with such app. SMPS then terminates the data so that the only collected data is stored on the Amazon Web Service Database and no data is stored in the SMPS app or any database owned or opperated by SMPS. Data stored in the Amazon Web Service Database is subject to the terms and conditions of Amazon's data privacy services which can be found at the following link: https://aws.amazon.com/compliance/data-privacy-faq/
